@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\bin\Debug\net9.0\fighting_simulator.exe
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\bin\Debug\net9.0\fighting_simulator.deps.json
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\bin\Debug\net9.0\fighting_simulator.runtimeconfig.json
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\bin\Debug\net9.0\fighting_simulator.dll
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\bin\Debug\net9.0\fighting_simulator.pdb
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.dll
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\refint\fighting_simulator.dll
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.pdb
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\fighting_simulator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\fighting_simulator\fighting_simulator\obj\Debug\net9.0\ref\fighting_simulator.dll
